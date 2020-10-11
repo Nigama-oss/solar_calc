@@ -1,18 +1,17 @@
 # solar energy savings calculator
 A web app to calculate your solar energy savings.
 
-**How it works**
+**Features**
 
-- User finds their address on the map, draws an outline of their roof top with a tool provided in the application. They give other numerical inputs like number of watts used etc.
-- When clicked on 'analyze', you can see the following:
 
-      - Recommendation of most compatible solar panel.
+- Recommendation of most compatible solar panel.
       
-      - Energy svings based on utility.
+- Energy svings based on utility.
       
-      - Number of solar panels required.
+- Number of solar panels required.
       
-      - Monthly energy production through out the year (represented in graph).
+- Monthly energy production through out the year (represented in graph).
+
 
 **How to use?**
 
@@ -28,3 +27,8 @@ A web app to calculate your solar energy savings.
 or
 
 `gulp build`
+
+**Screen shots**
+
+![alt text](https://camo.githubusercontent.com/baa5ed4f24f4965c732ae2df52eabbe25de460ac/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f736f6c61722d736176696e67732d63616c63756c61746f722f73637265656e73686f74732f73637265656e73686f74312e6a7067)
+
