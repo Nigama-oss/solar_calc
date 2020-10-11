@@ -6,7 +6,7 @@ A web app to calculate your solar energy savings.
 
 - Recommendation of most compatible solar panel.
       
-- Energy svings based on utility.
+- Energy savings based on utility.
       
 - Number of solar panels required.
       
