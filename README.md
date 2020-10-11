@@ -16,7 +16,7 @@ A web app to calculate your solar energy savings.
 ## How to use?
 
 - clone this repo
-- Install dependncies
+- Install dependencies
 
 `npm install && bower install`
 
