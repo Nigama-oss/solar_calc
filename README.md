@@ -1,4 +1,4 @@
-### solar energy savings calculator
+## solar energy savings calculator
 A web app to calculate your solar energy savings.
 
 ## Features
